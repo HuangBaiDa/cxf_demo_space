@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cxf_annotation" />
+        <module name="rest_cxf" />
+        <module name="rest_spring_cxf" />
+        <module name="rest_spring_cxf_shiro" />
+        <module name="soap_cxf" />
+        <module name="soap_jdk" />
+        <module name="soap_jdk_web" />
+        <module name="soap_spring_cxf" />
+        <module name="soap_spring_cxf_wss4j" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
